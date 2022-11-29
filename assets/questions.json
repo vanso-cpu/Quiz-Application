@@ -1,0 +1,175 @@
+[{
+	"question": "When does Kenya celebrate Independence Day?",
+	"options": ["A. 15th August", 
+		"B. 12th December", 
+		"C. 26th January", 
+		"D. 4th July"],
+	"answer": "B. 12th December"
+},
+{
+	"question": "Nobel prize is awarded for which of the following disciplines?",
+	"options": ["A. Literature, peace and economics", 
+		"B. Medicine or Physiology", 
+		"C. Chemistry and Physics", 
+		"D. All the above"],
+	"answer": "D. All the above"
+},
+
+{
+	"question": " You have noticed a potential victim and ensured the scene is safe. What is your next step?",
+	"options" : [ "A. Begin chest compressions",	
+	"B. Check for victim's responsiveness",
+	"C. Call the victim's doctor",
+	"D. Provide rescue breathing"],
+
+	"answer": "B. Check for victim's responsiveness"
+},
+
+{
+	"question": " Who is the father of Computer science?",
+	"options" : [ "A.George Washington",	
+	"B. Earl Nightingale",
+	"C.Charles Babbage",
+	"D. Abraham Lincon"],
+
+	"answer": "C. Charles Babbage"
+},
+{
+	"question": " In which type of computer, data are represented as discrete signals?",
+	"options" : [ "A.Digital Computer",	
+	"B. Super Computer",
+	"C.Abbacus",
+	"D. Hybrid Computer"],
+
+	"answer": "A. Digital Computer"
+},
+{
+	"question":	"World War I began in which year?",
+	"options" : [ "A. 1923",
+"B. 1938",
+"C. 1917",
+"D. 1914"],
+
+"answer": "D. 1914"
+
+},
+
+{
+	"question":	"Adolf Hitler was born in which country?",
+	"options" : [ "A. France",
+"B. Germany",
+"C. Austria",
+"D. Hungary"],
+
+"answer": "C. Austria"
+
+},
+
+{
+	"question":	"Where was John F. Kennedy assassinated in?",
+	"options" : [ "A. New York",
+"B. Austin",
+"C. Dallas",
+"D. Miami"],
+
+"answer": "C. Dallas"
+
+},
+
+{
+	"question":	"The first successful printing press was developed by this man? ",
+	"options" : [ "A. Johannes Gutenberg",
+"B. Benjamin Franklin",
+"C. Sir Isaac Newton",
+"D. Martin Luther"],
+
+"answer": "A. Johannes Gutenberg"
+
+},
+
+
+{
+	"question":	"In 1594, William Shakespeare joined the company of this London theatre.    ",
+	"options" : [ "A. Broadway",
+"B. Oxford University Theatre",
+"C. The Globe",
+"D. The London Palladium"],
+
+"answer": "D. The London Palladium"
+
+},
+
+
+{
+	"question":	"The United States bought Alaska from which country?  ",
+	"options" : [ "A. Japan",
+"B. China",
+"C. Russia",
+"D. Denmark"],
+
+"answer": "C. Russia"
+
+},
+
+
+{
+	"question":	"What technology is used to record cryptocurrency transactions?  ",
+	"options" : [ "A. Digital wallet",
+"B. Mining",
+"C. Blockchain",
+"D. Token"],
+
+"answer": "C. Blockchain"
+
+},
+
+{
+	"question":	"What technology is used to make telephone calls over the Internet possible? ",
+	"options" : [ "A. NFC",
+"B. Bluetooth",
+"C. Ethernet",
+"D. VoIP"],
+
+"answer": "D. VoIP"
+
+},
+
+{
+	"question":	"What is the term for text that automatically continues from one line to the next? ",
+	"options" : [ "A. Word processing",
+"B. Word wrapping",
+"C. Word flowing",
+"D. Word binding"],
+
+"answer": "B. Word wrapping"
+
+},
+
+{
+	"question":	"Which computer language is the most widely used?",
+	"options" : [ "A. C#",
+"B. Swift",
+"C. PHP",
+"D. Java "],
+
+"answer": "A. C#"
+
+},
+
+{
+	"question":	"What was the first cross-platform PDF software?",
+	"options" : [ "A. Adobe Acrobat",
+"B. Foxit PhantomPDF",
+"C. Nitro Pro",
+"D. Nitro Pro"],
+
+"answer": "A. Adobe Acrobat"
+
+}
+
+
+
+
+
+
+]
